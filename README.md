@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Thilina! 👋
+👨‍💻 Computer Science Student at SLIIT
 
-<!--
-**Thilina-DeSilva/Thilina-DeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently building my skills in Java and modern web technologies, and I’m actively looking for software engineering internships in Sri Lanka.
 
-Here are some ideas to get you started:
+🔭 Currently working on: polishing and improving my university OOP projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: Improving my Java & SQL skills,OOP skills
+
+👯 Looking to collaborate on: open-source beginner-friendly projects
+
+📫 Reach me at: thilinaback77@gmail.com
+
+🛠️ Languages & Tools
+
+Java · MySQL · HTML/CSS · Git
